@@ -17,7 +17,7 @@
 ## :robot: Índice
 
 - 1 -   [Introdução]() 
-- 2 -   [Novidades versão 2018]()
+- 2 -   [Novidades versão 2018/2019]()
 - 3 -   [Conhecendo o editor Unity 2018]()
 - 4 -   [Programação em C#]()
 - 5 -   [Plataforma 2D - Foco nas ferramentas do editor]()
