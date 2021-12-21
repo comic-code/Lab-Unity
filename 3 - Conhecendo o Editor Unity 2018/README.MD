@@ -100,4 +100,3 @@ Gizmos são usados para ter um "debug visual" em uma cena.
 
 - Objetos Vazio
   - Normalmente usado para agrupar. 
-
